@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 510" role="img" aria-labelledby="title"><title id="title">process-visit</title><defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#385A94"/><stop offset="1" stop-color="#1C365B"/></linearGradient>
+    <linearGradient id="fabric" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EADA"/><stop offset="1" stop-color="#DFD8C6"/></linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EAF7FF"/><stop offset="1" stop-color="#B4E3FA"/></linearGradient>
+    <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ABF1E5"/><stop offset="1" stop-color="#4AC5BA"/></linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F0FFAE"/><stop offset="1" stop-color="#CCF07E"/></linearGradient>
+    <filter id="shadow" x="-40%" y="-50%" width="180%" height="220%"><feDropShadow dx="0" dy="15" stdDeviation="12" flood-color="#1D3452" flood-opacity=".13"/></filter>
+    </defs><circle cx="318" cy="260" r="162" fill="#DCE5FF"/><path d="M163 290h286l33 63v37H146v-42Z" fill="#8AC9D7"/><path d="M212 214h207l30 77H178Z" fill="#F5F8FD" stroke="#365574" stroke-width="15" stroke-linejoin="round"/><path d="M245 214v77" stroke="#365574" stroke-width="12"/><circle cx="218" cy="391" r="28" fill="#294762"/><circle cx="408" cy="391" r="28" fill="#294762"/><circle cx="218" cy="391" r="11" fill="#E1F8EB"/><circle cx="408" cy="391" r="11" fill="#E1F8EB"/><path d="M290 250v24m-12-12h24" stroke="#58AF9D" stroke-width="6" stroke-linecap="round"/></svg>
